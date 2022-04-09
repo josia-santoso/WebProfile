@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    background-color: #1f2933;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #E4E7EB;
+}
+
+
+#profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+#profile img{
+    border-radius: 50%;
+    height: 150px;
+}
+
+#content{
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+#skills{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card{
+    width: 25%;
+    border: 1px solid;
+    margin: 10px;
+}
+
+.card div{
+    padding: 14px;
+}
+
+#contact{
+    margin-top: 50px;
+}
+
+footer a{
+    margin-left: 11px;
+    margin-right: 11px;
+}
+
+footer{
+    padding: 20px;
+}
